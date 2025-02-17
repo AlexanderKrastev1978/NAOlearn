@@ -1,2 +1,2 @@
 # NAOlearn
-NAO project for learners
+NAO robot project for learners
